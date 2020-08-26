@@ -1,0 +1,8 @@
+{
+  "browsers": "chrome",
+  "skipJsErrors": true,
+  "assertionTimeout": 10000,
+  "pageLoadTimeout": 10000,
+  "selectorTimeout": 15000,
+  "speed": 1
+}

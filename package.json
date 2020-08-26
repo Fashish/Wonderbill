@@ -1,0 +1,18 @@
+{
+  "name": "wonderbill",
+  "version": "1.0.0",
+  "description": "Wonderbill's technical challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe ./retreiver.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^1.9.1",
+    "zlib": "^1.0.5"
+  },
+  "dependencies": {
+    "eslint": "^7.7.0"
+  }
+}
